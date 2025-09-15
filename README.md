@@ -17,7 +17,6 @@
 * Userscript repo: [https://github.com/redphx/better-xcloud](https://github.com/redphx/better-xcloud)
 * Report **app** issues: open an Issue on this repo’s
 * Report **userscript** issues: [https://github.com/redphx/better-xcloud/issues](https://github.com/redphx/better-xcloud/issues)
-* Support the script author: [https://ko-fi.com/redphx](https://ko-fi.com/redphx)
 
 ---
 
